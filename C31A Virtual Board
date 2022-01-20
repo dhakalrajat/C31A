@@ -1,0 +1,62 @@
+C31A Virtual Board
+
+Owned by MicroSoft.
+
+GitHub -> software development provider
+	SCM -> source code management
+
+	using Git.
+
+	Git (open source) -> is a VCM (version control manager).
+
+	1. History of VCM..
+	2. GitHub vs Git..
+	3. Three-tier architecture of Git.. 
+	4. Intialize Git..
+	5. First Commit..
+	6. Basic Git Commands..
+	7. Setting up Git..
+	8. Git Hash..
+
+	upload.img
+	uploadBW.img
+	uploadBW2.img
+	uploadContrast.img
+	uploadContrast1.img
+	uploadSizeReduced.img
+	100 files. 50.
+	100 x 50 = 5000 files
+
+	SCM. Source Code Management
+
+	M -> Same Project
+	Linux Kernel.
+
+	1970s -> Orignal = 5 Versions -> O + edits1 + edits2 
+	1980s-> Most Recent = 5 versions -> R - edits4
+
+	Linux -> Linus Torvalds
+
+	open - source OS.
+
+	Kernel 10000000. Linux -> Not open source 2004. 2006 .
+
+	LT -> Git.
+
+
+	WebApp -> Server.
+
+	Features.
+
+	working copy.
+	repository (repo).
+
+	two - tiers
+
+	working copy
+	staging index
+	repository (repo)
+
+	three- tier 
+
+	SHA-1. SHA1("Rajat Dhakal"<authorname>,"main.html,main.js,mian.cs",prvioescommitName)
